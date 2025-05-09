@@ -1,5 +1,4 @@
-AI OPTIMIZED WIRELESS EV HUB
-### **AI Optimized Wireless EV Hub**
+ **AI Optimized Wireless EV Hub**
 
 This project presents the design and development of an **AI-powered EV charging hub** integrating **dual power sources** (solar and grid) with **wireless power transfer (WPT)** for efficient and contactless charging. The system leverages **RFID-based authentication** and **IoT monitoring (Blynk app)** to enhance user experience, while **AI-driven analytics** optimize battery health and cost estimation.
 
@@ -22,9 +21,9 @@ This project presents the design and development of an **AI-powered EV charging 
 * **Hardware/**: Circuit diagrams, module integration, prototype images
 * **Code/**: Arduino sketches, AI data processing scripts
 * **Dataset/**: Charging logs, battery health data
-* **Results*/: Performance analysis, efficiency metrics
+* **Results**/: Performance analysis, efficiency metrics
 
-📊 Results
+📊 **Results**
 
 * Charging Efficiency: 92%
 * Power Source Switching Accuracy: 95%
